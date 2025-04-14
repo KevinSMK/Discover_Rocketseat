@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Discover </h1>
+<h1 align="center"> Projeto Discover da RocketSeat </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -8,7 +8,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-certificado">Certificado</a>
 </p>
 
 <p align="center">
@@ -43,6 +44,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## 🎉 Certificado
+
+Certificado de conclusão do meu primerio projeto publicado aqui no GitHub através [DESSE LINK](https://app.rocketseat.com.br/certificates/6a10188f-fa28-43f9-8c8e-708d24bac903).
 
 ---
 
